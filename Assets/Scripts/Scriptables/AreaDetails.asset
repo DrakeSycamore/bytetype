@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c448f552d41335b42b9a9a3efaafea08, type: 3}
+  m_Name: AreaDetails
+  m_EditorClassIdentifier: 
+  areas:
+  - name: Area 1
+    description: 
+    shardRequired: 0
+    areaColor:
+      serializedVersion: 2
+      rgba: 4294738148
+    bgImage: {fileID: 21300000, guid: dbafd648a413fd84f8ba924bdfbc49af, type: 3}
+    levelLists:
+    - bankIndex: 0
+      levelColor:
+        serializedVersion: 2
+        rgba: 4290402142
+      aiLevel: 0
+      aiAnim: 0
+      isFinished: 0
+      shardCount: 0
+    - bankIndex: 1
+      levelColor:
+        serializedVersion: 2
+        rgba: 4289480525
+      aiLevel: 0
+      aiAnim: 0
+      isFinished: 0
+      shardCount: 0
+    - bankIndex: 2
+      levelColor:
+        serializedVersion: 2
+        rgba: 4288298050
+      aiLevel: 1
+      aiAnim: 0
+      isFinished: 0
+      shardCount: 0
+    - bankIndex: 3
+      levelColor:
+        serializedVersion: 2
+        rgba: 4286462270
+      aiLevel: 1
+      aiAnim: 0
+      isFinished: 0
+      shardCount: 0
+    - bankIndex: 4
+      levelColor:
+        serializedVersion: 2
+        rgba: 4283510063
+      aiLevel: 6
+      aiAnim: 1
+      isFinished: 0
+      shardCount: 0
+  - name: Area 2
+    description: 
+    shardRequired: 13
+    areaColor:
+      serializedVersion: 2
+      rgba: 4281414143
+    bgImage: {fileID: 21300000, guid: ee69eb289b96f3d45ba24c70d4482949, type: 3}
+    levelLists:
+    - bankIndex: 5
+      levelColor:
+        serializedVersion: 2
+        rgba: 4283377932
+      aiLevel: 1
+      aiAnim: 1
+      isFinished: 0
+      shardCount: 0
+    - bankIndex: 6
+      levelColor:
+        serializedVersion: 2
+        rgba: 4282589446
+      aiLevel: 1
+      aiAnim: 1
+      isFinished: 0
+      shardCount: 0
+    - bankIndex: 7
+      levelColor:
+        serializedVersion: 2
+        rgba: 4281341700
+      aiLevel: 2
+      aiAnim: 1
+      isFinished: 0
+      shardCount: 0
+    - bankIndex: 8
+      levelColor:
+        serializedVersion: 2
+        rgba: 4280225281
+      aiLevel: 2
+      aiAnim: 1
+      isFinished: 0
+      shardCount: 0
+    - bankIndex: 9
+      levelColor:
+        serializedVersion: 2
+        rgba: 4279305984
+      aiLevel: 8
+      aiAnim: 1
+      isFinished: 0
+      shardCount: 0

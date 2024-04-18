@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MiharuSet
+  m_Controller: {fileID: 9100000, guid: f9823b715088b9a4f84e5216fbcfe83d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: fc5ed2afcfbee8140826258938974fa2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 477df4bb8dbfd024c87f4214f765a8bc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 399dc288de23e754496dea1e5de7971c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 886b546652faa3c47aaae25c63cefa09, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a4f2570c0c9e4314b9d44e8d009c5c85, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 96e0dfe454bcbb04a8c37948791ad85a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c75c6f8de28035a4189f2b004cdb0e17, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a4b5775346ad050488940a8b7f5c1927, type: 2}

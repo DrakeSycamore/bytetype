@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03dcfa534c94f4d41a6db308eaaebe2f, type: 3}
+  m_Name: Characters
+  m_EditorClassIdentifier: 
+  characters:
+  - name: Hayano
+    isUnlocked: 1
+    scoreMultiplier: 2
+    timeMultiplier: 1
+    skillType:
+      scoreMultiply: 1
+      timeSlow: 0
+      timeFreeze: 0
+      wordSkip: 0
+    color:
+      serializedVersion: 2
+      rgba: 4291585791
+    spriteArtFullBody: {fileID: 21300000, guid: 514320b6769c1774582ac117511d5eef, type: 3}
+    charIcon: {fileID: 21300000, guid: 6c43608e83323e344a9a0d25fa0351dc, type: 3}
+    animationSet: {fileID: 22100000, guid: eb072931f148d4a4e9e406a17e1d2371, type: 2}
+    attackSound:
+    - {fileID: 8300000, guid: 7fd86c9506d6d174796e5ecee923fcab, type: 3}
+    attackCritSound: []
+    attackMissedSound:
+    - {fileID: 8300000, guid: be028f2dc9e54a4449d7b1dd945fcb9c, type: 3}
+    Victory: {fileID: 0}
+    Lose: {fileID: 0}
+  - name: Miharu
+    isUnlocked: 1
+    scoreMultiplier: 1
+    timeMultiplier: 0.5
+    skillType:
+      scoreMultiply: 0
+      timeSlow: 1
+      timeFreeze: 0
+      wordSkip: 0
+    color:
+      serializedVersion: 2
+      rgba: 4294946128
+    spriteArtFullBody: {fileID: 21300000, guid: 06eb2adbf81ad464899bfcc777f141b2, type: 3}
+    charIcon: {fileID: 21300000, guid: b39d87c8829be7d4cb199cf4fe2ca97d, type: 3}
+    animationSet: {fileID: 22100000, guid: 6c41118974980ff4ca345f595b3f4c6c, type: 2}
+    attackSound:
+    - {fileID: 8300000, guid: 7fd86c9506d6d174796e5ecee923fcab, type: 3}
+    attackCritSound: []
+    attackMissedSound:
+    - {fileID: 8300000, guid: be028f2dc9e54a4449d7b1dd945fcb9c, type: 3}
+    Victory: {fileID: 0}
+    Lose: {fileID: 0}

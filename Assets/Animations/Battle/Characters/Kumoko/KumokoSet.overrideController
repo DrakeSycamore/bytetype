@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: KumokoSet
+  m_Controller: {fileID: 9100000, guid: ec824794838fac0459302edf943420fa, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b81ee2d8e0be11a44a2dc20444a108df, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bb65201225fac504fb4ff8e4ece12cd6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ef0f25ec2c996a24e947baeecc38571d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8d7544f0a16626a4b9ca5c561bb62fa6, type: 2}
