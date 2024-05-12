@@ -7035,7 +7035,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43801e63b2a8a8a429c75313a02f7bc2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerInfo: {fileID: 11400000, guid: 6d62d09125fdc4548bef18ee801559a3, type: 2}
+  PlayerInfo: {fileID: 11400000, guid: f6cade9ae406f594aa026a256f7fa961, type: 2}
   sound: {fileID: 0}
   select: {fileID: 8300000, guid: 0a9fa9659f81f674ba470c9391babef6, type: 3}
   areaDetails: {fileID: 11400000, guid: 0d4e13c1b0243074e96e75b36a00009a, type: 2}
@@ -7060,7 +7060,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 442fd402d72d9c4479bac9bcc231fd10, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerInfo: {fileID: 11400000, guid: 6d62d09125fdc4548bef18ee801559a3, type: 2}
+  playerInfo: {fileID: 11400000, guid: f6cade9ae406f594aa026a256f7fa961, type: 2}
 --- !u!114 &1741513823
 MonoBehaviour:
   m_ObjectHideFlags: 0

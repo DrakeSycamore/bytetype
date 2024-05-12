@@ -311,7 +311,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chara: {fileID: 11400000, guid: 13221e9bb18720f4dbf70e2f131a653f, type: 2}
-  playInfo: {fileID: 11400000, guid: 6d62d09125fdc4548bef18ee801559a3, type: 2}
+  playInfo: {fileID: 11400000, guid: f6cade9ae406f594aa026a256f7fa961, type: 2}
   areaDetails: {fileID: 11400000, guid: 0d4e13c1b0243074e96e75b36a00009a, type: 2}
   areaLevelText: {fileID: 1894347131}
   wordDrop: {fileID: 943543381}
@@ -375,7 +375,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chara: {fileID: 11400000, guid: 13221e9bb18720f4dbf70e2f131a653f, type: 2}
-  playInfo: {fileID: 11400000, guid: 6d62d09125fdc4548bef18ee801559a3, type: 2}
+  playInfo: {fileID: 11400000, guid: f6cade9ae406f594aa026a256f7fa961, type: 2}
   myScore: 0
   baseScore: 1
   score: {fileID: 1320660292}
@@ -403,7 +403,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chara: {fileID: 11400000, guid: 13221e9bb18720f4dbf70e2f131a653f, type: 2}
-  playInfo: {fileID: 11400000, guid: 6d62d09125fdc4548bef18ee801559a3, type: 2}
+  playInfo: {fileID: 11400000, guid: f6cade9ae406f594aa026a256f7fa961, type: 2}
   boostActivated: 0
   timeDuration: 10
   boostTimer: {fileID: 1905283201}
@@ -420,7 +420,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   areaDetails: {fileID: 11400000, guid: 0d4e13c1b0243074e96e75b36a00009a, type: 2}
-  playInfo: {fileID: 11400000, guid: 6d62d09125fdc4548bef18ee801559a3, type: 2}
+  playInfo: {fileID: 11400000, guid: f6cade9ae406f594aa026a256f7fa961, type: 2}
   cam: {fileID: 1807452518}
   bgImage: {fileID: 1155354971}
   floorImage: {fileID: 512291832}
@@ -441,7 +441,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 08ca687b8faecdb428c250cdf408a37c, type: 3}
   - {fileID: 8300000, guid: adb10f59d65fa844b92f7d231d787920, type: 3}
   - {fileID: 8300000, guid: 75e183fc6581c90428f37db431e9d080, type: 3}
-  playerInfo: {fileID: 11400000, guid: 6d62d09125fdc4548bef18ee801559a3, type: 2}
+  playerInfo: {fileID: 11400000, guid: f6cade9ae406f594aa026a256f7fa961, type: 2}
   areaDetails: {fileID: 11400000, guid: 0d4e13c1b0243074e96e75b36a00009a, type: 2}
   enemyAnime: {fileID: 1430353899}
   enemyAnim:
@@ -462,8 +462,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   areaDetails: {fileID: 11400000, guid: 0d4e13c1b0243074e96e75b36a00009a, type: 2}
-  PlayerInfo: {fileID: 11400000, guid: 6d62d09125fdc4548bef18ee801559a3, type: 2}
-  playInfo: {fileID: 11400000, guid: 6d62d09125fdc4548bef18ee801559a3, type: 2}
+  PlayerInfo: {fileID: 11400000, guid: f6cade9ae406f594aa026a256f7fa961, type: 2}
+  playInfo: {fileID: 11400000, guid: f6cade9ae406f594aa026a256f7fa961, type: 2}
   chara: {fileID: 11400000, guid: 13221e9bb18720f4dbf70e2f131a653f, type: 2}
   showScore: {fileID: 1065030491}
   elapsedTime: {fileID: 1666453983}
@@ -488,7 +488,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 599c428a1a612e74688ad6a8155188d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playInfo: {fileID: 11400000, guid: 6d62d09125fdc4548bef18ee801559a3, type: 2}
+  playInfo: {fileID: 11400000, guid: f6cade9ae406f594aa026a256f7fa961, type: 2}
   areaDetails: {fileID: 11400000, guid: 0d4e13c1b0243074e96e75b36a00009a, type: 2}
 --- !u!1 &91171000
 GameObject:

@@ -168,7 +168,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e618fcb3091990a4db1908ad685fb12c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerInfo: {fileID: 11400000, guid: 6d62d09125fdc4548bef18ee801559a3, type: 2}
+  PlayerInfo: {fileID: 11400000, guid: f6cade9ae406f594aa026a256f7fa961, type: 2}
   areaDetails: {fileID: 11400000, guid: 0d4e13c1b0243074e96e75b36a00009a, type: 2}
   shardCount: {fileID: 1727221575}
   myScore: {fileID: 400083693}
@@ -186,7 +186,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 442fd402d72d9c4479bac9bcc231fd10, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerInfo: {fileID: 11400000, guid: 6d62d09125fdc4548bef18ee801559a3, type: 2}
+  playerInfo: {fileID: 11400000, guid: f6cade9ae406f594aa026a256f7fa961, type: 2}
 --- !u!1001 &62076655
 PrefabInstance:
   m_ObjectHideFlags: 0
